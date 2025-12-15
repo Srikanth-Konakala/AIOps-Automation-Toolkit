@@ -1,0 +1,3 @@
+2023-10-25 14:00:00 INFO: Service started
+2023-10-25 14:05:00 ERROR: Database connection failed
+2023-10-25 14:10:00 INFO: Retrying connection
