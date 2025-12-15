@@ -19,3 +19,4 @@ A Python-based automation toolkit for DevOps environments designed to analyze se
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Srikanth-Konakala/AIOps-Automation-Toolkit.git](https://github.com/Srikanth-Konakala/AIOps-Automation-Toolkit.git)
+   [View My Private Notes](https://github.com/Srikanth-Konakala/project-AIOps-Automation-Toolkit-notes/blob/main/README.md)
